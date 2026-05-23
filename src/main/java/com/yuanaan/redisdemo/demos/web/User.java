@@ -44,4 +44,8 @@ public class User {
     public static void main(String[] args) {
         System.out.println("垃圾桶持续产出");
     }
+
+    public String abab(String[] args) {
+        return "abab";
+    }
 }
